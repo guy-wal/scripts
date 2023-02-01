@@ -1,0 +1,15 @@
+{
+  "name": "random_security_logs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create_security_logs_for_rabbit.js",
+  "scripts": {
+    "start": "node --max-old-space-size=12000 create_security_logs_for_rabbit.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}

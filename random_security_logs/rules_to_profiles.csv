@@ -1,0 +1,14 @@
+rule_uid,rule_name,profile_uid,profile_name,profile_permanent_id
+ff4fcb9b-c91d-48f6-a238-80d3832459e7,,fa1aa324-a8cc-4dbd-bc04-f31fdb8abf61,Optimized,ThreatProfile:f3cae2f7-35a3-4ece-af4b-77f437f941c2
+ 4acac2dd-c943-4741-907f-82f915a8f77e,ofir rule,6a830a93-ca66-4fde-bc57-584dc1018247,Ofir,ThreatProfile:8870e6ce-d022-4a73-b129-bd9d93da2fe5
+ 6ef08422-b609-41fb-966c-f4f7b2d1442a,tmobile is safe rule,60a7ed92-985f-4947-83a2-ae5d903e5e8e,tmobile is safe,ThreatProfile:7bdcd27f-2681-46e6-91e8-752414d17110
+ 8cc68ff6-bcab-46d0-a04a-382351c5d491 , rabanical rule, 1f8bdf43-b0a9-4614-ac6d-b096960d2928 , rabanical god      ,ThreatProfile:a0217adf-fbb9-4629-b648-a46e60aa19b9
+ 862a7fe3-6f51-450d-9bad-85a2f0130ebe , bailey rule, 67c34b6b-3168-4ef8-8222-5629a4464c3f , bailey approves,ThreatProfile:e320509b-7618-4f50-9491-7c84f8158aa4
+ 425b0b30-7f7b-4ea1-9565-249bcad95cef , zoey rule, 1db64fca-bb82-4560-8ec2-e72dcc93895e , zoey snores        , ThreatProfile:9817d6f5-0168-412e-9996-1ca001f3a159
+ 366680ec-7087-40e0-af41-6de335cf2bfa , Ore the allower rule, 10d722db-c43b-4a8a-85c2-f248fb642851 , Ore the allower,ThreatProfile:bc511970-e9d0-4bb8-a8e3-ba3b32be692f
+ 1755776f-250b-40d6-b947-f8a87d5159d5 , prevent the shmool rule , 52ded9e3-1b1f-47e1-8b22-286887f722b0 , Prevent the shmool,ThreatProfile:962a723b-5818-4368-aa3f-a60075d6e29d
+ cb7ac2a4-6311-4329-a047-6dff4be521b1 , strict rule             , caf8b711-d762-4c1e-82d5-6af2549b2869 , Strict,ThreatProfile:ef6a9c80-efde-46e8-b1e9-2e8398a680a7
+ d4afb42b-1a01-43da-8d11-a19dcec02c6d , basic rule              , eb39a60d-c454-49f5-a28c-a89aa5bd2e09 , Basic, ThreatProfile:341596d4-6088-4d30-b7fb-79453df2e1e7
+ 50d10570-5872-4653-8112-1be6fba8912c , optimized rule, fa1aa324-a8cc-4dbd-bc04-f31fdb8abf61 , Optimized,ThreatProfile:14fe8ddf-f418-4a50-a247-f7504b0f3b25
+ cbe80d17-bc63-4113-9337-0979660d8125 , Shmool rule, c7a206e7-cf45-406e-90f9-0e2d16298f70 , Shmool,ThreatProfile:619dff47-4a7f-45a3-87d1-d6b2d87afd58
+ 030260ca-6c47-4e12-bb37-7e8eba73ca55 ,                         ,fa1aa324-a8cc-4dbd-bc04-f31fdb8abf61,Optimized,ThreatProfile:14fe8ddf-f418-4a50-a247-f7504b0f3b25
